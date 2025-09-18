@@ -1,12 +1,12 @@
 # Galeria de Fotos
 ### Tecnologias a destacar:
-1. a
-2. b
-3. c
-4. d
-5. e
-6. f
-7. g
+1. Vite
+2. Vite Plugin SVGR (svg into React Components)
+3. TailwindCSS
+4. Tailwind Variants
+5. React Hook Form
+6. Zod
+7. Zod Resolver (hookforms/resolvers)
 ### Como rodar o programa:
 Instale as dependências:
 ```bash
